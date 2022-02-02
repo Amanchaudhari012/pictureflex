@@ -1,0 +1,23 @@
+.images{
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img{
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 15px #5c5b5b;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+body{
+    background-color: #ccc;
+}
